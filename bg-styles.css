@@ -1,0 +1,79 @@
+.bg-style {
+    position: fixed;
+    z-index: -1;
+}
+
+.bg-style div {
+    position: absolute;
+    border: solid 0.426vh rgba(145, 84, 109, 0.4);
+}
+
+.bg-style .div-1 {
+    width: 21vh;
+    height: 21vh;
+    border-radius: 2.8vh;
+    rotate: 20deg;
+}
+
+.bg-style .div-2 {
+    width: 35vh;
+    height: 35vh;
+    border-radius: 2.84vh;
+    transform: translateX(113.63vh) translateY(-39.77vh) rotate(-20deg);
+}
+
+.bg-style .div-3 {
+    width: 17vh;
+    height: 17vh;
+    border-radius: 2.84vh;
+    transform: translateX(153vh) translateY(53vh) rotate(20deg);
+}
+
+.bg-style .div-4 {
+    width: 17vh;
+    height: 17vh;
+    border-radius: 2.84vh;
+    transform: translateY(78vh) rotate(-40deg) translateX(14.2vh);
+}
+
+.bg-style .div-5 {
+    width: 25.57vh;
+    height: 25.57vh;
+    border-radius: 2.84vh;
+    transform: translateX(210.2vh) rotate(-50deg);
+}
+
+.bg-style .div-6 {
+    width: 21.3vh;
+    height: 21.3vh;
+    border-radius: 50%;
+    transform: translateX(45.45vh) translateY(22vh);
+}
+
+.bg-style .div-7 {
+    width: 12.78vh;
+    height: 12.78vh;
+    border-radius: 50%;
+    transform: translateX(93.75vh) translateY(62vh);
+}
+
+.bg-style .div-8 {
+    width: 14.2vh;
+    height: 14.2vh;
+    border-radius: 4.26vh;
+    transform: translateX(110.8vh) translateY(14.2vh) rotate(-10deg);
+}
+
+.bg-style .div-9 {
+    width: 25.57vh;
+    height: 25.57vh;
+    border-radius: 5.68vh;
+    transform: translateX(198.86vh) translateY(85.227vh) rotate(80deg);
+}
+
+.bg-style .div-10 {
+    width: 7vh;
+    height: 7vh;
+    border-radius: 50%;
+    transform: translateX(172vh) translateY(20vh);
+}
